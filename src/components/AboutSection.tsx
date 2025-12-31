@@ -45,7 +45,7 @@ const AboutSection = () => {
             }}
           >
             <p className="text-lg leading-relaxed text-muted-foreground">
-              AI Engineer with expertise in <span className="text-foreground">Machine Learning</span>,{' '}
+              I am an AI Engineer with expertise in <span className="text-foreground">Machine Learning</span>,{' '}
               <span className="text-foreground">Deep Learning</span>,{' '}
               <span className="text-foreground">Computer Vision</span> (Image & Video Analysis) and{' '}
               <span className="text-foreground">Generative AI</span> (LLMs). Skilled in data analysis,
